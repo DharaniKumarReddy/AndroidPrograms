@@ -8,8 +8,8 @@ import android.widget.TextView;
 
 
 public class HemanthActivity extends ActionBarActivity {
-    TextView t;
-    
+    TextView upperDisplay;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
